@@ -1,6 +1,6 @@
 # Cellular-Automaton
 
-npm install
+npm install <br>
 npm start
 
 got to:
